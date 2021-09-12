@@ -29,6 +29,11 @@ Olá! prazer, sou o Rafael Bueno!
 </div>
 
 ##
+  
+<h3> IDE </h3>
+  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+  
+##
 
  <div>
 
