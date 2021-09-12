@@ -13,7 +13,7 @@ Olá! prazer, sou o Rafael Bueno!
 <div>
 
 <a href="https://github.com/RflBueno">
-<img height="135em" src="https://github-readme-stats.vercel.app/api?username=RflBueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RflBueno&layout=compact&langs_count=7&theme=dark"/>
+<img height="132em" src="https://github-readme-stats.vercel.app/api?username=RflBueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RflBueno&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>
 
 <h2> Tecnologias </h2>
