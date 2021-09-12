@@ -4,7 +4,7 @@ Olá! prazer, sou o Rafael Bueno!
 
 - 🔭 Hoje trabalho com logística, porém, nas horas vagas me dedico 100% a programação e estudos da área.
 
-- 🌱 Estudando novas tecnologias como: Git, Sass, React.js e Bootstrap.
+- 🌱 Estudando novas tecnologias como: Git, Sass, React.js, Node.js e Bootstrap.
 
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade. ✨
 
@@ -26,6 +26,7 @@ Olá! prazer, sou o Rafael Bueno!
   <img align="center" alt="Rfl-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
   <img align="center" alt="Rfl-ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rfl-Git" height="30" width="40" src="https://cdn.svgporn.com/logos/git-icon.svg">
+  <img align="center" alt="Rfl-NodeJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png">
 </div>
 
 ##
