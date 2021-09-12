@@ -2,7 +2,7 @@ Olá! prazer, sou o Rafael Bueno!
 
 ##
 
-- 🔭 Hoje trabalho com desenvolvimento front-end
+- 🔭 Hoje trabalho com desenvolvimento front-end.
 
 - 🌱 Estudando novas tecnologias como: Git, Sass, React.js e Bootstrap.
 
