@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com logística, porém, nas horas vagas me dedico 100% a programação e estudos da área.
 
-- 🌱 Estudando novas tecnologias como: Git, Sass, React.js, Node.js e Bootstrap.
+- 🌱 Estudando novas tecnologias como: Git, React.js e Next.js.
 
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade. ✨
 
