@@ -4,7 +4,7 @@
 
 - 🌱 Estudando novas tecnologias como: Git, React.js e o básico de Next.js.
 
-- 🤞 Em fase de busca da primeira oportunidade. Toda ajuda-dica é mais que bem vinda! ✨
+- 🤞 Em fase de busca da primeira oportunidade. Toda ajuda/dica é mais que bem vinda! ✨
 
 ##
 
