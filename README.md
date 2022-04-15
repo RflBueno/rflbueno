@@ -1,10 +1,10 @@
 <h1> Olá! prazer, sou o Rafael Bueno! </h1>
 
-- 🔭 Hoje trabalho com logística, porém, nas horas vagas me dedico 100% a programação e estudos da área.
+- 🔭 Nos últimos dois meses estou desempregado, porém, me dedidanco 110% aos estudos da programação focada no frontend, estou iniciando meu segundo semestre na faculdade de anaálise e desenvolvimento de sistemas
 
-- 🌱 Estudando novas tecnologias como: Git, React.js e Next.js.
+- 🌱 Estudando novas tecnologias como: Git, React.js e o básico de Next.js.
 
-- 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade. ✨
+- 🤞 Em fase de busca da primeira oportunidade. Toda ajuda-dica é mais que bem vinda! ✨
 
 ##
 
