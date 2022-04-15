@@ -36,20 +36,24 @@
 
 <!-- EMAIL PARA -->
    <div>
-     <a href= "mailto://rafael.bueno.c@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>     
+     <a href= "mailto://rafael.bueno.c@hotmail.com">
+       <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>     
    </div>
    
 <!--  LINKEDIN  -->
    <div>
-     <a href="https://www.linkedin.com/in/rafael-bueno-a35073207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/rafael-bueno-a35073207/" target="_blank">
+       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    </div>
    
 <!--  WHATSAPP  -->
    <div>
-     <a href="https://api.whatsapp.com/send?phone=5515998120526" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href="https://api.whatsapp.com/send?phone=5515998120526" target="_blank">
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    </div>
    
 <!--  INSTAGRAM  -->
    <div>
-     <a href="https://instagram.com/rfl_bueno" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      href="https://instagram.com/rfl_bueno" target="_blank">
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </div>
