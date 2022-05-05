@@ -1,6 +1,6 @@
 <h1> Olá! prazer, sou o Rafael Bueno! </h1>
 
-- 🔭 Nos últimos dois meses estou desempregado, porém, me dedidanco 110% aos estudos da programação focada no frontend, estou iniciando meu segundo semestre na faculdade de anaálise e desenvolvimento de sistemas
+- 🔭 Nos últimos dois meses estou desempregado, porém, me dedidanco 110% aos estudos da programação foquei primeiramente no frontend e agora estou me aprimorando com o backend, visando me tornar fullstack. Estou iniciando meu segundo semestre na faculdade de anaálise e desenvolvimento de sistemas.
 
 - 🌱 Estudando novas tecnologias como: Git, React.js e o básico de Next.js.
 
