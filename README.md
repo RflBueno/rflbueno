@@ -1,6 +1,6 @@
 <h1> Olá! prazer, sou o Rafael Bueno! </h1>
 
-- 🔭 Nos últimos 3 meses estou atuando como desenvolvedor backend, utilizando PHP e Laravel, porém, continuo os estudos do frontend com React e Next, visando me tornar fullstack. 
+- 🔭 Nos últimos 3 meses estou atuando como desenvolvedor backend, utilizando PHP e futuramente Laravel, porém, continuo os estudos do frontend com React e Next, visando me tornar fullstack. 
 - 🔭 Estou no segundo semestre na faculdade de análise e desenvolvimento de sistemas pela Universidade de Sorocaba.
 
 - 🌱 Estudando novas tecnologias como: React.js e o básico de Next.js.
