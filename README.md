@@ -2,7 +2,7 @@
 
 - 🔭 No último 1 ano e 1 mes estou atuando como desenvolvedor backend, utilizando PHP, Node.js e mySQL. Juntamente eu mantenho meus estudos na area de frontend, HTML, CSS, Javascript e React.js visando ampliar meus conhecimentos de ambas as areas. 
 
-- 🔭 Estou no primeiro semestre de Engenharia de Software.
+- 🔭 Estou no terceiro semestre de Analise e Desenvolvimento de Sistemas.
 
 - 🌱 Atualmente estando focando nos estudos de Node.js, React.js e o básico de Next.js.
 
