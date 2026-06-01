@@ -1,12 +1,12 @@
 <h1> Olá! prazer, sou o Rafael Bueno! </h1>
 
-- 🔭 No último 2 anos e 4 mes estou atuando como desenvolvedor backend, utilizando PHP, Node.js e mySQL. Juntamente eu mantenho meus estudos na area de frontend, HTML, CSS, Javascript e React.js visando ampliar meus conhecimentos de ambas as areas. 
+- 🔭 No último 3 anos estou atuando como desenvolvedor frontend, utilizando Javascript, Typescript, React. Juntamente eu mantenho meus estudos na area de backend usando Nodejs e Python, visando ampliar meus conhecimentos de ambas as areas. 
 
-- 🔭 Estou no terceiro semestre de Analise e Desenvolvimento de Sistemas.
+- 🎓 Formado no curso de Analise e Desenvolvimento de Sistemas.
 
-- 🌱 Atualmente estando focando nos estudos de Node.js, React.js e o básico de Next.js.
+- 🌱 Atualmente estando focando nos estudos de Node.js, Next e Nest.
 
-- 🤞 Em busca de novas oportunidades. Todo conselho ou dica é mais que bem vinda! ✨
+- Em busca de novas oportunidades. Todo conselho ou dica é mais que bem vinda!
 
 ##
 
