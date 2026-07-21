@@ -1,6 +1,6 @@
 <h1> Olá! prazer, sou o Rafael Bueno! </h1>
 
-- 🔭 No último 3 anos estou atuando como desenvolvedor frontend, utilizando Javascript, Typescript, React. Juntamente eu mantenho meus estudos na area de backend usando Nodejs e Python, visando ampliar meus conhecimentos de ambas as areas. 
+- 🔭 Nos últimos 3 anos estou atuando como desenvolvedor frontend, utilizando Javascript, Typescript, React. Juntamente eu mantenho meus estudos na area de backend usando Nodejs e Python, visando ampliar meus conhecimentos de ambas as areas. 
 
 - 🎓 Formado no curso de Analise e Desenvolvimento de Sistemas.
 
